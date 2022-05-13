@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/BLL/CTHDBanBLL.java=UTF-8
+encoding//src/BLL/HoaDonBanBLL.java=UTF-8
+encoding//src/BLL/KhachHangBLL.java=UTF-8
+encoding//src/BLL/NhanVienBLL.java=UTF-8
+encoding//src/BLL/SanPhamBLL.java=UTF-8
+encoding//src/GUI/FormBanSanPham.java=UTF-8
+encoding//src/GUI/FormDangNhap.java=UTF-8
+encoding//src/GUI/FormDichVu.java=UTF-8
+encoding//src/GUI/FormDoanhThu.java=UTF-8
+encoding//src/GUI/FormKhachHang.java=UTF-8
+encoding//src/GUI/FormMainMenu.java=UTF-8
+encoding//src/GUI/FormNhanVien.java=UTF-8
+encoding//src/GUI/FormSanPham.java=UTF-8
